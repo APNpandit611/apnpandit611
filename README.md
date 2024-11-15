@@ -7,7 +7,7 @@ Full Stack Developer
 Hey there! I’m a passionate MERN-Stack Developer in the making, exploring the vast world of web development one project at a time. Driven by curiosity and a love for problem-solving, I'm on a journey to master both front-end and back-end technologies, from creating cool user experiences to building powerful, scalable apps.
 
 * 🌍  I'm based in Finland
-* 🖥️  See my portfolio at [myapp.com](http://myapp.com)
+<!--* 🖥️  See my portfolio at [myapp.com](http://myapp.com)-->
 * ✉️  You can contact me at [apnpanditt@gmail.com](mailto:apnpanditt@gmail.com)
 * 🧠  I'm leanring mern stack
 * 🤝  I'm open to collaborating on Interesting projects
