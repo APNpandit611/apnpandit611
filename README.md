@@ -6,8 +6,7 @@ Full Stack Developer
 
 Hey there! I’m a passionate MERN-Stack Developer in the making, exploring the vast world of web development one project at a time. Driven by curiosity and a love for problem-solving, I'm on a journey to master both front-end and back-end technologies, from creating cool user experiences to building powerful, scalable apps.
 
-* 🌍  I'm based in Finland
-<!--* 🖥️  See my portfolio at [myapp.com](http://myapp.com)-->
+* 🌍  I'm based in Finland<!--* 🖥️  See my portfolio at [myapp.com](http://myapp.com)-->
 * ✉️  You can contact me at [apnpanditt@gmail.com](mailto:apnpanditt@gmail.com)
 * 🧠  I'm leanring mern stack
 * 🤝  I'm open to collaborating on Interesting projects
@@ -21,5 +20,4 @@ Hey there! I’m a passionate MERN-Stack Developer in the making, exploring the 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/apnpandit611" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/disboyhigh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abhishek-pandit-02544415a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
