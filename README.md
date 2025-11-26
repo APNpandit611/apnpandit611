@@ -17,60 +17,26 @@ https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoCol
 
 I'm a recent Information Technology graduate based in Kokkola, Finland, passionate about building modern, efficient, and user-friendly web applications. My journey involves transforming ideas into functional software, with a strong focus on clean code and practical problem-solving.
 
-· 🚀 I specialize in the Next.js & React ecosystem, paired with Node.js and PostgreSQL.
-· 💡 I enjoy working on full-stack projects, from designing interactive UIs with Tailwind CSS and Shadcn/ui to building robust backend APIs.
-· 🌱 I’m currently deepening my knowledge in backend architecture, database design with Prisma, and exploring AI integration.
-· 📫 How to reach me: apnpanditt@gmail.com
-· ⚡ Fun Fact: When I'm not coding, I'm likely working part-time in a high-paced food factory – talk about managing different types of "production"!
+- 🔭 I’m currently working with **Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, and Prisma**.
+- 🌱 I’m exploring **advanced full-stack patterns** and improving my skills in **database design and API development and AI models integration**.
+- 🚀 I enjoy deploying my projects using **Vercel, Netlify, and Render**.
+- 💼 View my projects and experience on my portfolio: [abhi-2026.netlify.app](https://abhi-2026.netlify.app)
+- 📫 How to reach me: **apnpanditt@gmail.com**
+- 📍 Based in **Kokkola, Finland**.
+- ⚡ Fun Fact: When I'm not coding, I'm likely working part-time in a high-paced food factory.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-Here are the technologies and tools I work with:
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS, Shadcn/ui, Material UI
+**Backend:** Node.js, Express.js
+**Database & ORM:** PostgreSQL, Prisma, MongoDB, Mongoose
+**Tools & Platforms:** Git, Redux Toolkit, Clerk, Cloudinary, Vercel, Netlify, Render, OAuth, JWT, OpenAi, OpenRouter
 
-Category Technologies
-Frontend Next.js React TypeScript JavaScript Tailwind CSS Shadcn/ui Material UI
-Backend Node.js Express.js REST APIs JWT OAuth
-Database & ORM PostgreSQL Prisma MongoDB Mongoose
-Tools & Platforms Git GitHub Vercel Netlify Render Cloudinary Figma Postman
-Currently Exploring OpenAI API OpenRouter Clerk Auth
+### 🤝 Let's Connect
 
-💼 Featured Projects
+I'm open to collaborating on interesting projects and am always excited to discuss new opportunities. Feel free to reach out if you'd like to build something together!
 
-Codiz - AI-Powered Quiz Generator
 
-Tech: Next.js 14 TypeScript Tailwind CSS Clerk OpenRouter AI
-
-· Developed a dynamic code quiz generator featuring user authentication.
-· Integrated the Nemotron Nano AI model via OpenRouter to generate and customize quizzes on-the-fly.
-
-Feedbook - Social Media Platform
-
-Tech: MERN Stack React Node.js Express MongoDB JWT
-
-· A full-stack social platform where users can create, share, and interact with posts.
-· Implemented secure JWT authentication and full CRUD functionality.
-
-Image.me - AI Image Generation App
-
-Tech: MERN Stack Cloudinary OpenRouter AI
-
-· An application that leverages AI models to generate and manage images.
-· Integrated Cloudinary for efficient media storage and management.
-
-📈 GitHub Stats
-
-<div align="center">
-
-<!-- The following is a placeholder structure. You can generate actual stats using services like https://github.com/anuraghazra/github-readme-stats -->
-
-<!--
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
--->
-
-GitHub stat cards will appear here once configured.
-
-</div>
 
 ---
 
