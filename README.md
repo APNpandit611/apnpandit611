@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
 
-Hi, I'm Abhishek Pandit 👋
-
 A Detail-Oriented Full-Stack Developer from Finland
 
 </div>
@@ -34,24 +32,6 @@ I'm a recent Information Technology graduate based in Kokkola, Finland, passiona
 ### 🤝 Let's Connect
 
 I'm open to collaborating on interesting projects and am always excited to discuss new opportunities. Feel free to reach out if you'd like to build something together!
-
-
-
----
-
-<div align="center">
-
-🤝 Open to Collaborations & Opportunities
-
-I'm always excited to work on interesting projects, contribute to open source, and connect with fellow developers. Feel free to reach out if you want to build something amazing together!
-
-Thanks for visiting my profile! Have a great day! 😄
-
-</div>
-
-
-
-
 
 ### Skills
 
