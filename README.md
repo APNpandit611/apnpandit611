@@ -7,10 +7,6 @@ Hi, I'm Abhishek Pandit 👋
 
 A Detail-Oriented Full-Stack Developer from Finland
 
-https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 </div>
 
 👨‍💻 About Me
@@ -28,8 +24,11 @@ I'm a recent Information Technology graduate based in Kokkola, Finland, passiona
 ### 🛠️ Tech Stack
 
 **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Shadcn/ui, Material UI
+
 **Backend:** Node.js, Express.js
+
 **Database & ORM:** PostgreSQL, Prisma, MongoDB, Mongoose
+
 **Tools & Platforms:** Git, Redux Toolkit, Clerk, Cloudinary, Vercel, Netlify, Render, OAuth, JWT, OpenAi, OpenRouter
 
 ### 🤝 Let's Connect
